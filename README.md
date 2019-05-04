@@ -1,2 +1,3 @@
 # hello-world
-just another repository
+
+hello earthlings! i Like Chocolates.
